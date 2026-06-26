@@ -44,13 +44,13 @@ Desarrollador de software por **Valencia, España**, especializado en el diseño
 *Plataforma e-commerce de alto rendimiento orientada a simular un entorno de producción real y escalable.*
 - **Arquitectura:** Frontend reactivo Angular mediante arquitectura modular, guards de ruta, interceptores HTTP y gestión eficiente del estado. Backend en Spring Boot con persistencia optimizada mediante Spring Data JPA.
 - **Funcionalidades Clave:** Autenticación segura mediante JSON Web Tokens (JWT), persistencia de datos de alta disponibilidad y panel de administración avanzado (CRUD completo y control de pedidos en tiempo real).
-- **Enlaces:** [Backend](https://github.com/cristian-dev92/ecommerce-backend)[Frontend](https://github.com/cristian-dev92/ecommerce-frontend)[Demo en vivo](https://ecommerce-frontend-seven-psi.vercel.app/)
+- **Enlaces:** [Backend](https://github.com/cristian-dev92/ecommerce-backend) | [Frontend](https://github.com/cristian-dev92/ecommerce-frontend) | [Demo en vivo](https://ecommerce-frontend-seven-psi.vercel.app/)
 
 ### 🚀 [TaskFlow - Gestor de Tareas Fullstack]
 *Aplicación de productividad realista orientada a la gestión ágil de proyectos en equipos de trabajo.*
 - **Arquitectura:** Angular, Spring Boot, PostgreSQL, Docker. API REST completamente documentada y validada con Postman.
 - **Funcionalidades Clave:** Panel interactivo Kanban, gestión de subtareas, estados dinámicos, filtrado avanzado y control de acceso protegido mediante JWT.
-- **Enlaces:** [Backend](https://github.com/cristian-dev92/gestor-tareas-backend)[Frontend](https://github.com/cristian-dev92/gestor-tareas-frontend)[Demo en vivo](https://gestor-tareas-frontend-eight.vercel.app/)
+- **Enlaces:** [Backend](https://github.com/cristian-dev92/gestor-tareas-backend) | [Frontend](https://github.com/cristian-dev92/gestor-tareas-frontend) | [Demo en vivo](https://gestor-tareas-frontend-eight.vercel.app/)
 
 
 ---
